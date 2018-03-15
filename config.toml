@@ -1,4 +1,4 @@
-baseURL = "https://monstar-lab.github.io/engineering-blog"
+baseURL = "https://monstar-lab.github.io/engineering-blog/"
 languageCode = "en-us"
 title = "Hugo Site Test"
 theme = "hugo-theme-blueberry-detox"
